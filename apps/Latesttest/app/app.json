@@ -1,0 +1,17 @@
+{
+  "id": "867cfadc-e23a-4bc4-9676-0021024946d7",
+  "name": "Latesttest",
+  "type": "front-end",
+  "slug": "867cfadc-e23a-4bc4-9676-0021024946d7",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-03-23T12:18:13.555Z",
+  "organizationId": "5427134f-2455-4d36-a1da-e3719328d2f3",
+  "userId": "68be0538-d98e-4b47-8e28-26dadcb6454a",
+  "icon": "shield",
+  "tooljetVersion": "3.21.8-beta-ee"
+}
