@@ -1,0 +1,17 @@
+{
+  "id": "c8541fac-0406-4e75-b5e8-6d007d9141e2",
+  "name": "new1",
+  "type": "front-end",
+  "slug": "c8541fac-0406-4e75-b5e8-6d007d9141e2",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-03-23T12:33:00.818Z",
+  "organizationId": "5427134f-2455-4d36-a1da-e3719328d2f3",
+  "userId": "68be0538-d98e-4b47-8e28-26dadcb6454a",
+  "icon": "apps",
+  "tooljetVersion": "3.21.8-beta-ee"
+}
