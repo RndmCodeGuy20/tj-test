@@ -1,0 +1,17 @@
+{
+  "id": "fb8d2e9a-0889-40e5-a281-e1376c69d34b",
+  "name": "newtest",
+  "type": "front-end",
+  "slug": "fb8d2e9a-0889-40e5-a281-e1376c69d34b",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-03-23T10:37:19.592Z",
+  "organizationId": "7dbd8452-8b38-4c66-bae4-e27ced00fd3b",
+  "userId": "d9e77592-213b-471c-a111-b3f002eb8492",
+  "icon": "grid",
+  "tooljetVersion": "3.21.8-beta-ee"
+}

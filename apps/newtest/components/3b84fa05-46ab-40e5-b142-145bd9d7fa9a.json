@@ -1,0 +1,99 @@
+{
+  "id": "3b84fa05-46ab-40e5-b142-145bd9d7fa9a",
+  "name": "button1",
+  "type": "Button",
+  "pageId": "3d8d069c-e3eb-4225-937d-737575fe5536",
+  "parent": null,
+  "properties": {
+    "text": {
+      "value": "Button"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    }
+  },
+  "general": {},
+  "styles": {
+    "textColor": {
+      "value": "#FFFFFF"
+    },
+    "borderColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "loaderColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "borderRadius": {
+      "value": "{{6}}"
+    },
+    "backgroundColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "iconColor": {
+      "value": "var(--cc-default-icon)"
+    },
+    "direction": {
+      "value": "left"
+    },
+    "padding": {
+      "value": "default"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000090"
+    },
+    "icon": {
+      "value": "IconAlignBoxBottomLeft"
+    },
+    "iconVisibility": {
+      "value": false
+    },
+    "type": {
+      "value": "primary"
+    }
+  },
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "a633fc76-8488-4216-9c29-a653ef08d415",
+      "type": "desktop",
+      "top": 100,
+      "left": 20,
+      "width": 4,
+      "height": 40,
+      "componentId": "3b84fa05-46ab-40e5-b142-145bd9d7fa9a",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "f18eca07-3600-406f-846b-465aceed75e7",
+      "type": "mobile",
+      "top": 100,
+      "left": 20,
+      "width": 4,
+      "height": 40,
+      "componentId": "3b84fa05-46ab-40e5-b142-145bd9d7fa9a",
+      "dimensionUnit": "count"
+    }
+  ]
+}
