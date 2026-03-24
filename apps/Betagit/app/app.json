@@ -1,0 +1,17 @@
+{
+  "id": "00441ccd-4528-4ab5-bdf5-87d2df81b374",
+  "name": "Betagit",
+  "type": "front-end",
+  "slug": "00441ccd-4528-4ab5-bdf5-87d2df81b374",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-03-24T12:07:30.824Z",
+  "organizationId": "170d8864-7023-415b-ba7b-b153c6523e0c",
+  "userId": "9879b9b3-555d-4c6e-a1ce-d0a22185454d",
+  "icon": "draghandle",
+  "tooljetVersion": "3.21.8-beta-ee"
+}
