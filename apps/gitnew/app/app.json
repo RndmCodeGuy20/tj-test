@@ -1,0 +1,17 @@
+{
+  "id": "24583953-eef4-410e-ba42-200ff07f04a2",
+  "name": "gitnew",
+  "type": "front-end",
+  "slug": "24583953-eef4-410e-ba42-200ff07f04a2",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-03-24T09:12:28.140Z",
+  "organizationId": "b54bb811-0a45-439e-a94e-e54103c25391",
+  "userId": "47fd2fe5-ab0d-4ecd-8579-31ab3446ee21",
+  "icon": "layers",
+  "tooljetVersion": "3.21.8-beta-ee"
+}
