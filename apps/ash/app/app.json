@@ -1,0 +1,17 @@
+{
+  "id": "e699e985-83ac-4c6d-ad62-6c7ba9235740",
+  "name": "ash",
+  "type": "front-end",
+  "slug": "e699e985-83ac-4c6d-ad62-6c7ba9235740",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-03-24T11:59:47.580Z",
+  "organizationId": "170d8864-7023-415b-ba7b-b153c6523e0c",
+  "userId": "9879b9b3-555d-4c6e-a1ce-d0a22185454d",
+  "icon": "sentfast",
+  "tooljetVersion": "3.21.8-beta-ee"
+}
