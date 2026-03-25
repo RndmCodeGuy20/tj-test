@@ -1,0 +1,8 @@
+{
+  "id": "e55c7793-ac92-4f3b-9faf-d592b2c3f3ea",
+  "organizationId": "a34ae6ef-5b51-45c0-9bb4-91fdc45499f6",
+  "name": "staging",
+  "isDefault": false,
+  "priority": 2,
+  "enabled": true
+}
