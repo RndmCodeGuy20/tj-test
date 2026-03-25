@@ -1,0 +1,17 @@
+{
+  "id": "adad2132-f7dc-411b-9f21-d3a16daa5c9b",
+  "name": "abcd",
+  "type": "front-end",
+  "slug": "adad2132-f7dc-411b-9f21-d3a16daa5c9b",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-03-25T05:59:20.737Z",
+  "organizationId": "170d8864-7023-415b-ba7b-b153c6523e0c",
+  "userId": "9879b9b3-555d-4c6e-a1ce-d0a22185454d",
+  "icon": "share",
+  "tooljetVersion": "3.21.10-beta-ee"
+}
