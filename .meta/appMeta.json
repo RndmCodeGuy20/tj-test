@@ -2,5 +2,9 @@
   "84d920f1-933f-4c4d-b60e-d579fde6146f": {
     "appPath": "apps/app-1",
     "updatedAt": "2026-03-25T12:32:28.405Z"
+  },
+  "0af3f19a-4d6e-4964-9945-37893fe0dc8c": {
+    "appPath": "apps/app-2",
+    "updatedAt": "2026-03-26T11:54:13.411Z"
   }
 }
