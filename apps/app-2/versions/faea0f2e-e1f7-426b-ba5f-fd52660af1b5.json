@@ -20,5 +20,6 @@
   "description": null,
   "publishedAt": null,
   "releasedAt": null,
-  "isStub": false
+  "isStub": false,
+  "sourceTag": null
 }
