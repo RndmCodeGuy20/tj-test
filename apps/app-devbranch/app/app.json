@@ -1,0 +1,13 @@
+{
+  "id": "126550b4-afcf-425f-8636-27bb0817d788",
+  "name": "app-devbranch",
+  "type": "front-end",
+  "slug": "a3676edf-8f2b-4234-8dd2-367191642264",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "grid",
+  "tooljetVersion": "3.21.23-beta-ee"
+}
