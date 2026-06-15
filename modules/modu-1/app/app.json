@@ -1,0 +1,13 @@
+{
+  "id": "ad9042e2-1e4b-4942-8615-9172d38fee4c",
+  "name": "modu-1",
+  "type": "module",
+  "slug": "c209fb1a-b0b2-47f9-b002-1b3d68d249a5",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "grid",
+  "tooljetVersion": "3.21.44-beta-ee"
+}
