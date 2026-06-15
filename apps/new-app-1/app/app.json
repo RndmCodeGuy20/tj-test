@@ -3,7 +3,7 @@
   "name": "new-app-1",
   "type": "front-end",
   "slug": "db53c4a0-ae63-43c9-ab67-35fb244d4d0d",
-  "isPublic": false,
+  "isPublic": true,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
