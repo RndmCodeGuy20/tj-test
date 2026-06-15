@@ -11,8 +11,8 @@
     "json_body": null,
     "body_toggle": false,
     "retry_network_errors": null,
-    "transformationLanguage": "javascript",
-    "enableTransformation": false
+    "enableTransformation": false,
+    "transformationLanguage": "javascript"
   },
   "dataSourceId": "b4c3b9f0-2100-4011-9a38-29d37b5d187a",
   "appVersionId": "55a8ab18-faf8-4138-840b-5899d465d7b1",
