@@ -1,0 +1,13 @@
+{
+  "id": "27027dcb-8338-4adf-bba4-eaa829caea30",
+  "name": "new-app-1",
+  "type": "front-end",
+  "slug": "db53c4a0-ae63-43c9-ab67-35fb244d4d0d",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "draghandle",
+  "tooljetVersion": "3.21.44-beta-ee"
+}

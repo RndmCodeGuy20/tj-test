@@ -6,5 +6,9 @@
   "0af3f19a-4d6e-4964-9945-37893fe0dc8c": {
     "appPath": "apps/app-2",
     "updatedAt": "2026-03-26T11:54:13.411Z"
+  },
+  "27027dcb-8338-4adf-bba4-eaa829caea30": {
+    "appPath": "apps/new-app-1",
+    "updatedAt": "2026-06-15T11:15:13.477Z"
   }
 }
