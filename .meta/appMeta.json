@@ -14,5 +14,9 @@
   "04667511-c981-4a4d-8a5d-10f76cea3cf8": {
     "appPath": "apps/slug-check",
     "updatedAt": "2026-06-26T14:14:42.739Z"
+  },
+  "56d6b72c-1862-4426-83cb-5b264d80d81f": {
+    "appPath": "apps/app-hydration-check",
+    "updatedAt": "2026-06-26T14:38:08.986Z"
   }
 }

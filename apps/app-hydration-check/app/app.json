@@ -1,0 +1,13 @@
+{
+  "id": "56d6b72c-1862-4426-83cb-5b264d80d81f",
+  "name": "app-hydration-check",
+  "type": "front-end",
+  "slug": "4dd6902a-b4e6-4ba8-8fec-4b29aff37c34",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "layers",
+  "tooljetVersion": "3.21.47-beta-ee"
+}
