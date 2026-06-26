@@ -1,0 +1,13 @@
+{
+  "id": "04667511-c981-4a4d-8a5d-10f76cea3cf8",
+  "name": "slug-check",
+  "type": "front-end",
+  "slug": "c0a9be0f-5cf2-4c94-9ff2-ad0e26008021",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "apps",
+  "tooljetVersion": "3.21.47-beta-ee"
+}
