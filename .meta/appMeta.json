@@ -10,5 +10,9 @@
   "27027dcb-8338-4adf-bba4-eaa829caea30": {
     "appPath": "apps/new-app-1",
     "updatedAt": "2026-06-18T08:24:22.608Z"
+  },
+  "04667511-c981-4a4d-8a5d-10f76cea3cf8": {
+    "appPath": "apps/slug-check",
+    "updatedAt": "2026-06-26T14:14:42.739Z"
   }
 }
