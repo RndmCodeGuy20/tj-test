@@ -18,5 +18,9 @@
   "56d6b72c-1862-4426-83cb-5b264d80d81f": {
     "appPath": "apps/app-hydration-check",
     "updatedAt": "2026-06-26T15:10:12.647Z"
+  },
+  "71fe0bfb-8701-43f5-963c-fb963e620572": {
+    "appPath": "apps/app-hydration-check-v2",
+    "updatedAt": "2026-06-29T05:46:35.188Z"
   }
 }
